@@ -1,2 +1,0 @@
-# rent-core
-rent core
